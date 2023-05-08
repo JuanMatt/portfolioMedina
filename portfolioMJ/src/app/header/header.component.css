@@ -1,0 +1,11 @@
+#texto {
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+    margin-left: 0%;
+}
+div {
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
